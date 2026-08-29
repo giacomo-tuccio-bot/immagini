@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__fd59827c-d70c-441a-ae06-1f47d6443459__list_projects",
+      "mcp__fd59827c-d70c-441a-ae06-1f47d6443459__list_tables",
+      "mcp__fd59827c-d70c-441a-ae06-1f47d6443459__generate_typescript_types",
+      "mcp__fd59827c-d70c-441a-ae06-1f47d6443459__get_project",
+      "Bash(env)"
+    ]
+  }
+}
